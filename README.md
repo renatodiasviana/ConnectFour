@@ -11,3 +11,7 @@ Skills showed:
 3) Gameplay programming
 4) AI programing (Min Max algorithm)
 5) Shader programming
+
+Assets used:
+
+1) ConnectFourBackground.png (Created by Renato Dias Viana)
