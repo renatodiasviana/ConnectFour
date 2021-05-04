@@ -19,8 +19,8 @@ Assets used:
 Decisions:
 
 1) I created a game in one scene because of the time to deliver the game.
-2) I created two shaders used for simple effects (First one shows the winner pieces, second one is fading effect when reseting the game)
-3) I created tree levels of difficulty in AI moves
+2) I created two shaders used for simple effects (First one shows all four winner pieces, second one is a fading effect when reseting the game)
+3) I created three levels of difficulty in AI moves and you can change it during the game
    a) Easy - Random AI moves
    b) Medium - MinMax algorithm with max level tree set to 3
    c) Hard - MinMax algorithm with max level tree set to 5
