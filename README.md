@@ -25,6 +25,9 @@ Decisions:
    b) Medium - MinMax algorithm with max level tree set to 3
    c) Hard - MinMax algorithm with max level tree set to 5
 
+Link  to play on WebGL:
+http://renatoviana.epizy.com/CommandFour/
+
 Enjoy.
 
 Created By Renato Dias Viana
