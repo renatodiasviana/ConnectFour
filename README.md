@@ -24,9 +24,9 @@ Decisions:
 
 Game difficulties:
 
-a) Easy - Random AI moves
-b) Medium - MinMax algorithm with max level tree set to 3
-c) Hard - MinMax algorithm with max level tree set to 5
+1) Easy - Random AI moves
+2) Medium - MinMax algorithm with max level tree set to 3
+3) Hard - MinMax algorithm with max level tree set to 5
 
 Link  to play on WebGL:
 http://renatoviana.epizy.com/CommandFour/
